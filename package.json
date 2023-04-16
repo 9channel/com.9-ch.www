@@ -1,6 +1,6 @@
 {
-  "name": "ygo",
-  "version": "0.0.1",
+  "name": "9ch",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "vite",
