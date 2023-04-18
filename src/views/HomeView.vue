@@ -19,7 +19,7 @@ export default {
         <div>
             <ul>
                 <li>
-                    <a href="https://ygo.9-ch.com">Yo-Gi-Oh! Tools</a>
+                    <a href="https://ygo.9-ch.com">Yu-Gi-Oh! Tools</a>
                 </li>
                 <li>
                     <a href="https://blog.9-ch.com">Blog</a>
